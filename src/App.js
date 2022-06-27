@@ -115,7 +115,7 @@ function App({ signOut }) {
     return (
       <div className="Text">
         <div>
-          <h3>Speech to text</h3>
+          <h3>Speech to textttt</h3>
           <AudioRecorder finishRecording={convertFromBuffer} />
           <p>{response}</p>
         </div>
