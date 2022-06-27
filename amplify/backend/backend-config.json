@@ -24,5 +24,12 @@
         ]
       }
     }
+  },
+  "predictions": {
+    "audio": {
+      "providerPlugin": "awscloudformation",
+      "service": "Transcribe",
+      "convertType": "transcription"
+    }
   }
 }

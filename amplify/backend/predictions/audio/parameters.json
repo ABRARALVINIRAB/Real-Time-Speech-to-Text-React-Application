@@ -1,0 +1,13 @@
+{
+    "resourceName": "audio",
+    "convertPolicyName": "transcriptionPolicyd91d988c",
+    "authRoleName": {
+        "Ref": "AuthRoleName"
+    },
+    "unauthRoleName": {
+        "Ref": "UnauthRoleName"
+    },
+    "convertType": "transcription",
+    "language": "en-US",
+    "access": "authAndGuest"
+}

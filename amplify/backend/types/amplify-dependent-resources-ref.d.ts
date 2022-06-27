@@ -9,5 +9,11 @@ export type AmplifyDependentResourcesAttributes = {
             "AppClientIDWeb": "string",
             "AppClientID": "string"
         }
+    },
+    "predictions": {
+        "audio": {
+            "region": "string",
+            "language": "string"
+        }
     }
 }

@@ -13,7 +13,8 @@
     },
     "categories": {
       "auth": {
-        "realtimespeechtotextaa263721": {}
+        "realtimespeechtotextaa263721": {},
+        "true": {}
       }
     }
   }
